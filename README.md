@@ -97,10 +97,6 @@
   <img src="https://stats.pphat.top/languages?username=alone-prodipta" alt="Top language breakdown" />
 </p>
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alone-prodipta&theme=tokyonight&radius=10" alt="alone-prodipta's Activity Graph" />
-</p>
-
 ---
 
 ## 🔗 Connect with Me
